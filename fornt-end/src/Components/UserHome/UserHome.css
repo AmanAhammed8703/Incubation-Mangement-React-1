@@ -1,0 +1,25 @@
+.wrapper{
+    background-color: rgb(214, 235, 225);
+    width: 60%;
+    margin: auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    padding: 3%;
+    border-radius: 8px;
+    
+}
+.inputfields{
+    width: 100%;
+   
+    
+
+}
+.logoupload{
+    margin-top: 10px;
+}
+.submitbutton{
+  width: 30%;
+  height: 40px;
+
+}
+

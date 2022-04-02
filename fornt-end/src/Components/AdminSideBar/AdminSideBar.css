@@ -1,0 +1,15 @@
+.sidebar{
+    width: 16vw;
+    background-color: rgb(70, 95, 70);
+    height: 100vh;
+    max-width: 200px;
+
+    
+}
+
+@media (max-width:574px) {
+    .sidebarlist{
+        font-size: 2px;
+        display: none;
+    }
+}
